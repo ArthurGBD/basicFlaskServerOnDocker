@@ -1,5 +1,3 @@
-Aqui está a tradução para o inglês do `README.md`:
-
 ```markdown
 # 📦 Flask App with Docker
 
